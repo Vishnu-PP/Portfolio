@@ -9,7 +9,7 @@
     "export": "next export"
   },
   "engines": {
-    "node": "14.19.1"
+    "node": "14.21.1"
   },
   "dependencies": {
     "next": "10.2.3",
